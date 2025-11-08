@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import os
 
-genai.configure(api_key="AIzaSyA85osCjS4Tse_vyhA-Sur4CjvfIdQdHq4")
+genai.configure(api_key="Enter API_KEY")
 
 system_instructions = (
     "You are Chipo, a friendly and professional AI assistant for the Zimbabwe School Examinations Council (ZIMSEC). "
